@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: server
-        image: ghcr.io/jaymed/hello-flux/github.com/jaymed/hello-flux/apps/team-1/server:main-2121f24-1678406351 # {"$imagepolicy": "team-1:server"}
+        image: ghcr.io/jaymed/hello-flux/github.com/jaymed/hello-flux/apps/team-1/server:main-17e51f7-1678406917 # {"$imagepolicy": "team-1:server"}
         ports:
         - containerPort: 8080
